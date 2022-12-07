@@ -22,8 +22,8 @@ Integrated Razorpay Checkout for making payment of the ordered products.
 
 
 ### Server
-1. Clone repo using `git clone https://github.com/MahamudM90/task-syntax.git`
-2. Change directory using `cd task-syntax-server`
+1. Clone repo using `https://github.com/MahamudM90/dietify.git`
+2. Change directory using `cd dietify-backend`
 3. Install all dependencies using `npm install`
 4. Create a .env file and set mongodb userID and Pass
 5. Create a access token a set it in .env file 
