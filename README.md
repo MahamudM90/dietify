@@ -29,7 +29,7 @@ Integrated Razorpay Checkout for making payment of the ordered products.
 5. Create a access token a set it in .env file 
 6. Run the Project using `npm start / nodemon index.js`
 
-👤 ## Known Bugs
+👤 Known Bugs
 
 Feel free to email me at mahamud15-10467@diu.edu.bd if you run into any issues or have questions, ideas or concerns. Please enjoy
 and feel free to share your opinion, constructive criticism, or comments about my work. Thank you! 🙂
