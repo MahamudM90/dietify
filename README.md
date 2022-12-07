@@ -15,7 +15,7 @@ Integrated Razorpay Checkout for making payment of the ordered products.
 ## How to Install Local Machine
 
 ### Client 
-1. Clone repo using `git clone https://github.com/MahamudM90/task-syntax.git`
+1. Clone repo using `https://github.com/MahamudM90/dietify.git`
 2. Change directory using `cd task-syntax-client`
 3. Install all dependencies using `npm install`
 4. Firebase Config 
