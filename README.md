@@ -28,3 +28,5 @@ Integrated Razorpay Checkout for making payment of the ordered products.
 4. Create a .env file and set mongodb userID and Pass
 5. Create a access token a set it in .env file 
 6. Run the Project using `npm start / nodemon index.js`
+
+👤 Mahamud Hasan
