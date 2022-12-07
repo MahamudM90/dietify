@@ -8,7 +8,7 @@ Built UI using my component library Mind UI involving 14 components & full-stack
 Integrated Razorpay Checkout for making payment of the ordered products.
 
 ## Live Deployed Link  
-[CLient Side Link](https://task-syntax.web.app) <br>
+[CLient Side Link](https://dietify.vercel.app/) <br>
 [Server Side Link](https://dietify-backend.vercel.app/)
 
 
