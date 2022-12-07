@@ -5,7 +5,7 @@
 Dietify is an online marketplace to buy healthy and nutrion-rich products built using React, Express & MongoDB.
 Users can search, sort, filter products. It includes cart, wishlist & checkout features with payment integration.
 Built UI using my component library Mind UI involving 14 components & full-stack authentication provided by JWT.
-Integrated Razorpay Checkout for making payment of the ordered products.
+Integrated  Checkout for making payment of the ordered products.
 
 ## Live Deployed Link  
 [CLient Side Link](https://dietify.vercel.app/) <br>
