@@ -16,9 +16,8 @@ Integrated Razorpay Checkout for making payment of the ordered products.
 
 ### Client 
 1. Clone repo using `https://github.com/MahamudM90/dietify.git`
-2. Change directory using `cd task-syntax-client`
+2. Change directory using `cd dietify-client`
 3. Install all dependencies using `npm install`
-4. Firebase Config 
 5. Run the Project using `npm start`
 
 
