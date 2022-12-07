@@ -7,7 +7,7 @@ Pass: `Mahamud123456@`
 
 ## Live Deployed Link  
 [CLient Side Link](https://task-syntax.web.app) <br>
-[Server Side Link](https://task-syntax.vercel.app/)
+[Server Side Link](https://dietify-backend.vercel.app/)
 
 
 ## How to Install Local Machine
