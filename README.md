@@ -12,7 +12,7 @@ Integrated  Checkout for making payment of the ordered products.
 [Server Side Link](https://dietify-backend.vercel.app/)
 
 
-## How to Install Local Machine
+## How to Install the Local Machine
 
 ### Client 
 1. Clone repo using `https://github.com/MahamudM90/dietify.git`
